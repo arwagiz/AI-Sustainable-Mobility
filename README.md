@@ -2,7 +2,7 @@
 
 ##### Community list of AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations! :bike::bus::train::steam_locomotive:
 
-![image](Nov23_Eco system machine assisted transport planning.png?raw=true)
+![EcoSystem] 
 
 Have something to add or change? Contact: 
 
