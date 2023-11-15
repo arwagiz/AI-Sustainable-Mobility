@@ -1,6 +1,6 @@
 # AI-Sustainable-Mobility 
 
-##### Community list of AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations :bike::bus::train:🌳🚊
+##### Community list of: AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations :bike::bus::train:🌳🚊
 
 ![EcoSystem] (https://github.com/arwagiz/AI-Sustainable-Mobility/blob/4262e7fcee75f426cf7de56db2095aa833a62afc/Nov23Ecosystemmachineassistedtransportplanning.png)
 
