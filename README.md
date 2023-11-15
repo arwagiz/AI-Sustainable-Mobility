@@ -2,7 +2,8 @@
 
 ##### Community list of: AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations :bike::bus::train:🌳🚊
 
-<img width="722" alt="image" src="https://github.com/arwagiz/AI-Sustainable-Mobility/assets/150907039/61e33325-8ee5-491a-9f2c-f2cdf24fdcd3">
+<img width="719" alt="image" src="https://github.com/arwagiz/AI-Sustainable-Mobility/assets/150907039/096d8f9c-9352-4093-a69e-7013e5437a7a">
+
 
 Have something to add or change? Contact: 
 
