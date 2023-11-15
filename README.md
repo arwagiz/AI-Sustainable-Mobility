@@ -2,7 +2,7 @@
 
 ##### Community list of AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations! :bike::bus::train::steam_locomotive:
 
-! [image] (Nov23_Eco system machine assisted transport planning.png?raw=true)
+![image](Nov23_Eco system machine assisted transport planning.png?raw=true)
 
 Have something to add or change? Contact: 
 
@@ -107,5 +107,5 @@ You might find these links useful:
 - App reporte ( https://github.com/trufi-association/chat-bot-report )  - A whatsapp-able platform to report and systematize mobility problems  (311- type) - in Spanish 
 
 
-- Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
+Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
