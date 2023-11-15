@@ -2,7 +2,7 @@
 
 ##### Community list of AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations! :bike::bus::train::steam_locomotive:
 
-![EcoSystem] 
+![EcoSystem] (https://github.com/arwagiz/AI-Sustainable-Mobility/blob/d9ea996832317504dbbdd92b3385e7a965fb50a4/Nov23Ecosystem%20machineassistedtransportplanning.png)
 
 Have something to add or change? Contact: 
 
