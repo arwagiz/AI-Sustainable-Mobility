@@ -2,7 +2,7 @@
 
 ##### Community list of: AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations :bike::bus::train:🌳🚊
 
-! [EcoSystem] (https://github.com/arwagiz/AI-Sustainable-Mobility/blob/4262e7fcee75f426cf7de56db2095aa833a62afc/Nov23Ecosystemmachineassistedtransportplanning.png)
+<img width="722" alt="image" src="https://github.com/arwagiz/AI-Sustainable-Mobility/assets/150907039/61e33325-8ee5-491a-9f2c-f2cdf24fdcd3">
 
 Have something to add or change? Contact: 
 
@@ -108,4 +108,7 @@ You might find these links useful:
 
 
 Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
+
+
+Contributors: Dr. Sebastian Ebert: sebastian.ebert@giz.de, Sebastian Ibold: sebastian.ibold@giz.de, Tuan Do: tuan.do@giz.de, Dr. Christian Mettke christian.mettke@giz.de ; Eric Stemmler eric.stemmler@cimonline.de; Doren Calliku doren.calliku@giz.de , Lena Plikat lena.plikat@giz.de, Carlos Felipe Pardo carlosefe@sabidurai.co     -  Compiled by / Contact:  Armin Wagner: armin.wagner@giz.de  (as of November 2023)
 
