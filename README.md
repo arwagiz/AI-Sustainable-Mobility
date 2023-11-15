@@ -5,7 +5,7 @@
 <img width="719" alt="image" src="https://github.com/arwagiz/AI-Sustainable-Mobility/assets/150907039/096d8f9c-9352-4093-a69e-7013e5437a7a">
 
 
-Have something to add or change? Contact: 
+Have something to add or change? Contact: Armin.Wagner@giz.de
 
 ------------------------------
 
