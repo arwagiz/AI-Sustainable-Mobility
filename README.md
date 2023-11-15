@@ -62,10 +62,11 @@ You might find these links useful:
 - OpenstreetMap ( https://www.openstreetmap.org/ )  - Free editable map of the whole world.  - Transport Data Commons Initiative ( https://transportdatacommons.unece.org/ )
 - Transport Data Commons aims to improve access, sharing and analysis of transportation data for a more sustainable future
 - TomTom ( https://www.tomtom.com/ )  - Mapping and location technology
-- Asian Transport Outlook ( https://asiantransportoutlook.com/ )  - Knowledge base on transport in the Asia-Pacific region  - citydata ( https://citydata.ai/ )  - City data sets
+- Asian Transport Outlook ( https://asiantransportoutlook.com/ )  - Knowledge base on transport in the Asia-Pacific region
+- citydata ( https://citydata.ai/ )  - City data sets
 - Ride Report ( https://public.ridereport.com/  )  - Data repository on  bikes and scooters
 - Layer  ( https://beta.getlayer.xyz/ )  - Spatial orchestration platform with global data coverage
-- AINO ( https://aino.world/ )  
+- AINO ( https://aino.world/ )  - AI-powered tool to create, design and publish maps for spatial data projects
 - AI Atlas NZ ( https://www.aiatlas.nz/ )  - Experiment in training and applying deep learning models to open aerial imagery
 - Latitudo40 ( https://www.latitudo40.com/ )  -  AI, machine learning, and Big Data analysis applied to Earth Observation Images
 
@@ -79,8 +80,7 @@ You might find these links useful:
 
 ### Parking Management
 
-- Wisesight ( https://www.wisesight.ai/  )
-- AI automated parking enforcement
+- Wisesight ( https://www.wisesight.ai/  ) - AI automated parking enforcement
 - Parknav ( https://parknav.com/ )  - Real-time on-street parking information
 - Vortex ( https://vortexiot.com/products/vtx-air )  - Air quality monitoring
 
