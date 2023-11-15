@@ -1,6 +1,6 @@
 # AI-Sustainable-Mobility 
 
-##### Community list of AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations! :bus::star2::train::star2::steam_locomotive:
+##### Community list of AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations! :bike::bus::star2::train::star2::steam_locomotive:
 Have something to add or change? Contact: 
 
 ------------------------------
@@ -23,7 +23,6 @@ You might find these links useful:
 ### Data Collection and Analytics 
 
 - DataFromSky ( https://datafromsky.com/ )  - Video analytics tools for adaptive traffic monitoring and control, smart parking, surveying and more
- - DataFromSky ( https://datafromsky.com/ )  - Video analytics tools for adaptive traffic monitoring and control, smart parking, surveying and more
 - Telraam ( https://telraam.net   )  - Collection of multi-modal traffic data with a purpose-built device.
 - Sensata ( https://www.sensata.io/ )  - UX research and data collection  
 - Citibeats ( https://www.citibeats.com/ )  - Gathers actionable insights into the population's concerns related to key impact areas
