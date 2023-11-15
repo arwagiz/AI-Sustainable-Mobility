@@ -1,7 +1,7 @@
 # AI-Sustainable-Mobility 
 
-##### Community list of AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations!
-Have something to add or change? Open :
+##### Community list of AI, ML, IoT, big&open data & co.: The evolving eco-system of machine-assisted transport planning, management and operations! :bus::star2::train::star2::steam_locomotive:
+Have something to add or change? Contact: 
 
 ------------------------------
 
