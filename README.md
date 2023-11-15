@@ -9,6 +9,13 @@ Have something to add or change? Open :
 
 - [Data collection and analytics] (#Data collection and analytics)
 - [Safety and Security] (#Safety and Security)
+- [Public Transport] (#Public Transport)
+- [Visualisations & Design] (#Visualisations & Design)
+- [Parking Management] (#Parking Management)
+- [MRV] (#MRV)
+- [Logistics] (#Logistics)
+- [Operations] (#Operations)
+- [Transport Planning] (#Transport Planning)
 
 ### Data Collection and Analytics 
 
