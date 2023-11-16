@@ -104,7 +104,7 @@ You might find these links useful:
 ### Transport Planning
   
 - PTV Model2Go ( https://www.ptvgroup.com/en/products/ptv-model2go )  - Automates parts of the model-building process and delivers a basic transport model
-- EMME ( https://www.inrosoftware.com/en/ )
+- EMME ( https://www.inrosoftware.com/en/ ) - Transportation forecasting system for planning the urban, regional and national movement of people
 - App reporte ( https://github.com/trufi-association/chat-bot-report )  - A whatsapp-able platform to report and systematize mobility problems  (311- type) - in Spanish 
 
 
