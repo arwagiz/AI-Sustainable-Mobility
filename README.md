@@ -21,7 +21,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Parking Management](#parking-management)
 - [MRV](#mrv)
 - [Logistics](#logistics)
-- [Operations](#Operations)
+- [Operations](#operations)
 - [Transport Planning](#transport-planning)
 
 You might find these links useful:
