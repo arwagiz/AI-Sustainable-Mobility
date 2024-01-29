@@ -64,8 +64,8 @@ You might find these links useful:
 ### Data <a name="data"></a>
  
 - [TUMI Data]( https://hub.tumidata.org/ )  - Mobility data hub for cities
-- [OpenstreetMap]( https://www.openstreetmap.org/ )  - Free editable map of the whole world.  - Transport Data Commons Initiative ( https://transportdatacommons.unece.org/ )
-- Transport Data Commons aims to improve access, sharing and analysis of transportation data for a more sustainable future
+- [OpenstreetMap]( https://www.openstreetmap.org/ )  - Free editable map of the whole world.
+- [Transport Data Commons Initiative](https://transportdatacommons.unece.org/) - Transport Data Commons aims to improve access, sharing and analysis of transportation data for a more sustainable future
 - [TomTom]( https://www.tomtom.com/ )  - Mapping and location technology
 - [Asian Transport Outlook]( https://asiantransportoutlook.com/ )  - Knowledge base on transport in the Asia-Pacific region
 - [citydata]( https://citydata.ai/ )  - City data sets
