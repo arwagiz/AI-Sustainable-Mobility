@@ -23,6 +23,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Logistics](#logistics)
 - [Operations](#operations)
 - [Transport Planning](#transport-planning)
+- [Infrastructue Management](#infra-management)
 
 You might find these links useful:
 
@@ -80,7 +81,7 @@ You might find these links useful:
 - [Streetmix]( https://streetmix.net )  - Produces a 2d section of a street
 - [3Dstreet]( https://3dstreet.app )  - Deploys 3d versions of streets
 - [Dutch Cycling Lifestyle]( https://dutchcyclinglifestyle.com )  - A platform that uses generative AI (Dall-e like ) to show how a street in a specific address could be more sustainable by design
-- [BeyondCaD](https://beyondcad.com/) - 3D visualization tools for infrastructure and transportation
+- [BeyondCAD](https://beyondcad.com/) - 3D visualization tools for infrastructure and transportation
 
 ### Parking Management  <a name="parking-management"></a>
 
@@ -111,6 +112,9 @@ You might find these links useful:
 - [EMME]( https://www.inrosoftware.com/en/ ) - Transportation forecasting system for planning the urban, regional and national movement of people
 - [App reporte]( https://github.com/trufi-association/chat-bot-report )  - A whatsapp-able platform to report and systematize mobility problems  (311- type) - in Spanish 
 
+### Infrastructure Management  <a name="infra-management"></a
+
+- [Niricson](https://niricson.com/) -- Infrastructure condition assessment and risk management
 
 Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
@@ -127,5 +131,5 @@ Contributors:
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of November 2023)
+- (as of January 2024)
 
