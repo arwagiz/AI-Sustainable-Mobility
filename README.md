@@ -39,6 +39,7 @@ You might find these links useful:
 - [AIMSUN]( https://www.aimsun.com/ )  - Simulation and predictive data analytics to understand transportation network performance, to predict its future evolution, and to support decision making.
 - [Urban Radar]( https://urbanradar.io/ )  - Spatial analytics for smart cities
 - [AIWAYSION](https://www.aiwaysion.com/) - Analsysis of vehicle, ped/cyclists volume and speed data, road surface condition information, etc
+- [VivaCity](https://vivacitylabs.com/) - Traffic monitoring, near miss data and signal control
   
 ### Safety and Security <a name="safety-and-security"></a>
   
