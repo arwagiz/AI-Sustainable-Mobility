@@ -23,7 +23,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Logistics](#logistics)
 - [Operations](#operations)
 - [Transport Planning](#transport-planning)
-- [Infrastructue Management](#infra-management)
+- [Infrastructure Management](#infra-management)
 
 You might find these links useful:
 
