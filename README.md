@@ -114,7 +114,7 @@ You might find these links useful:
 - [App reporte]( https://github.com/trufi-association/chat-bot-report )  - A whatsapp-able platform to report and systematize mobility problems  (311- type) - in Spanish
 - [Podaris](https://www.podaris.com/) - Collaborative transport planning and stakeholder engagement
 
-### Infrastructure Management  <a name="infra-management"></a
+### Infrastructure Management  <a name="infra-management"></a>
 
 - [Niricson](https://niricson.com/) -- Infrastructure condition assessment and risk management
 
