@@ -37,7 +37,7 @@ You might find these links useful:
 - [Videonetics]( https://www.videonetics.com/ )  - AI & DL-powered video management solutions
 - [AIMSUN]( https://www.aimsun.com/ )  - Simulation and predictive data analytics to understand transportation network performance, to predict its future evolution, and to support decision making.
 - [Urban Radar]( https://urbanradar.io/ )  - Spatial analytics for smart cities
-- [AIWAYSION] (https://www.aiwaysion.com/) - Analsysis of vehicle, ped/cyclists volume and speed data, road surface condition information, etc
+- [AIWAYSION](https://www.aiwaysion.com/) - Analsysis of vehicle, ped/cyclists volume and speed data, road surface condition information, etc
   
 ### Safety and Security <a name="safety-and-security"></a>
   
