@@ -116,7 +116,7 @@ You might find these links useful:
 
 - [Niricson](https://niricson.com/) -- Infrastructure condition assessment and risk management
 
-Disclaimer: Findings, interpretations and conclusions expressed in this chart are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
+Disclaimer: Findings, interpretations and conclusions expressed in this chart and in this Github-repository are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart and repository doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
 
 Contributors:
