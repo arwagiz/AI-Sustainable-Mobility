@@ -78,12 +78,12 @@ You might find these links useful:
 
 ### Visualisations & Design <a name="visualisations-&-design"></a>
 
-- [UrbanistAI]( https://urbanistai.com/ )  - A Participatory design platform to reimagine the future of our cities
-- [Better Streets AI]( https://betterstreets.ai/  )  - AI-generated street transformations
-- [Streetmix]( https://streetmix.net )  - Produces a 2d section of a street
 - [3Dstreet]( https://3dstreet.app )  - Deploys 3d versions of streets
-- [Dutch Cycling Lifestyle]( https://dutchcyclinglifestyle.com )  - A platform that uses generative AI (Dall-e like ) to show how a street in a specific address could be more sustainable by design
+- [Better Streets AI]( https://betterstreets.ai/  )  - AI-generated street transformations
 - [BeyondCAD](https://beyondcad.com/) - 3D visualization tools for infrastructure and transportation
+- [Dutch Cycling Lifestyle]( https://dutchcyclinglifestyle.com )  - A platform that uses generative AI (Dall-e like ) to show how a street in a specific address could be more sustainable by design
+- [Streetmix]( https://streetmix.net )  - Produces a 2d section of a street
+- [UrbanistAI]( https://urbanistai.com/ )  - A Participatory design platform to reimagine the future of our cities
 
 ### Parking Management  <a name="parking-management"></a>
 
