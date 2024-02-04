@@ -87,32 +87,32 @@ You might find these links useful:
 
 ### Parking Management  <a name="parking-management"></a>
 
-- [Wisesight]( https://www.wisesight.ai/  ) - AI automated parking enforcement
 - [Parknav]( https://parknav.com/ )  - Real-time on-street parking information
 - [Vortex]( https://vortexiot.com/products/vtx-air )  - Air quality monitoring
-
+- [Wisesight]( https://www.wisesight.ai/  ) - AI automated parking enforcement
+- 
 ### MRV  <a name="mrv"></a>
 
 - [Everimpact]( https://www.everimpact.com/ )  - Measuring area-based GHG emissions to finance climate actions
 - [Nxtlog]( https://www.nxtlog.io/ )  - Emissions calculation reporting and recommendation engine
 
 ### Logistics  <a name="logistics"></a>
-  
-- [Veroo]( https://www.veroo.io/  )  - Automating transport and logistics processes and deliver information to manage shipments
-- [BinPACKER]( https://www.supplychainbrain.com/articles/32772-db-schenker-releases-binpacker-algorithm-for-load-planning  )  - Load optimization
-- [Swoove]( https://www.swoove360.com/ )  - Manages orders and fleets to help automate the delivery process and track vehicle costs, emissions, certificates, licenses
-- [Mansio]( https://mansio-logistics.com/en-us/ )  - Software-based transport system for road haulage. It is based on the principle of relay traffic: in the course of a transport, one truck hands over its semi-trailer to another truck
-- [Konsent]( https://konsent-logistik.de/ )  - Automated tracking of production goods through IoT cameras
+
 - [1Lieferschein]( https://1lieferschein.com/ )  - Electronic delivery note
 - [Arinto]( https://www.arinto.io/  )  - Arrival optimization system
+- [BinPACKER]( https://www.supplychainbrain.com/articles/32772-db-schenker-releases-binpacker-algorithm-for-load-planning  )  - Load optimization
 - [HAST]( https://hast-hagel.de/ )  - Hail damage assessments
+- [Konsent]( https://konsent-logistik.de/ )  - Automated tracking of production goods through IoT cameras
+- [Mansio]( https://mansio-logistics.com/en-us/ )  - Software-based transport system for road haulage. It is based on the principle of relay traffic: in the course of a transport, one truck hands over its semi-trailer to another truck
 - [Smartlane]( https://smartlane.ai/en/ )  - Automated and optimized planning of daily regional multidrop distribution and collection trips.
+- [Swoove]( https://www.swoove360.com/ )  - Manages orders and fleets to help automate the delivery process and track vehicle costs, emissions, certificates, licenses
+- [Veroo]( https://www.veroo.io/  )  - Automating transport and logistics processes and deliver information to manage shipments
 
 ### Transport Planning  <a name="transport-planning"></a>
-  
-- [PTV Model2Go]( https://www.ptvgroup.com/en/products/ptv-model2go )  - Automates parts of the model-building process and delivers a basic transport model
-- [EMME]( https://www.inrosoftware.com/en/ ) - Transportation forecasting system for planning the urban, regional and national movement of people
+
 - [App reporte]( https://github.com/trufi-association/chat-bot-report )  - A whatsapp-able platform to report and systematize mobility problems  (311- type) - in Spanish
+- [EMME]( https://www.inrosoftware.com/en/ ) - Transportation forecasting system for planning the urban, regional and national movement of people
+- [PTV Model2Go]( https://www.ptvgroup.com/en/products/ptv-model2go )  - Automates parts of the model-building process and delivers a basic transport model
 - [Podaris](https://www.podaris.com/) - Collaborative transport planning and stakeholder engagement
 
 ### Infrastructure Management  <a name="infra-management"></a>
