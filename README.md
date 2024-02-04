@@ -45,22 +45,22 @@ You might find these links useful:
 ### Safety and Security <a name="safety-and-security"></a>
   
 - [Be My Eyes]( https://www.bemyeyes.com/ )  - Be My Eyes connects people needing sighted support with volunteers and companies through live video around the world
+- [CycleAI]( https://cycleai.net/ )  - This application allows the users to plan and navigate in real time between 2 points and considers our previously created Hotspot Maps, avoiding recognized hotspots and calculating the safest route for the user
 - [Nauto]( https://www.nauto.com/ )  - AI-powered fleet management software that anticipates driver behavior, reduces collisions
 - [Safetipin]( https://www.safetipin.com )  - Safetipin Nite and My Safetipin apps collect data across the city through images and through user generated safety audits to assess physical infrastructure as well as the social usage of streets and public spaces.
 - [Walk Together]( https://www.walktogetherai.com/ )  - WalkTogether.ai is a social platform which allows women to find other "verified" women in their vicinity to walk with in order to feel safer.
-- [CycleAI]( https://cycleai.net/ )  - This application allows the users to plan and navigate in real time between 2 points and considers our previously created Hotspot Maps, avoiding recognized hotspots and calculating the safest route for the user
 - [Walk21 Walkability App]( https://walk21.com/resources/walkability-app/ )  - The Walkability app is a mobile phone application participatory mapping tool
 
 ### Public Transport <a name="public-transport"></a>
 
-- [Optibus]( https://www.optibus.com/ )  - Software plattform for public transport operations
-- [Swiftly]( https://www.goswift.ly/  )  - Transit data platform for agencies to share real-time passenger information, manage day-to-day operations, and improve service performance.
 - [Asistobe]( https://asistobe.com/ )  - AI Optimization Of Public Transport And Multimodal Systems
+- [Cermoni]( https://www.cermoni.app/ )  - Public transport route optimization and passenger demand forecasting, vehicle and driver assignment in the public transportation operation planning process.  
+- [DigitalTransport4Africa]( https://digitaltransport4africa.org/ )  - Open resource center for mapping public transport accross Africa
+- [EVOpt (Microlabs)]( https://microgridlabs.com/evopt/ )  - Plan and design of future electric fleet through modeling, analysis, and optimization.
+- [Optibus]( https://www.optibus.com/ )  - Software plattform for public transport operations
+- [Swiftly]( https://www.goswift.ly/  )  - Transit data platform for agencies to share real-time passenger information,- manage day-to-day operations, and improve service performance.
 - [RouteQ]( https://routeq.com/ )  - Routing, dispatching and fleet-tracking
 - [Trufi]( https://www.trufi-association.org/ )  
-- [DigitalTransport4Africa]( https://digitaltransport4africa.org/ )  - Open resource center for mapping public transport accross Africa
-- [Cermoni]( https://www.cermoni.app/ )  - Public transport route optimization and passenger demand forecasting, vehicle and driver assignment in the public transportation operation planning process.  
-- [EVOpt (Microlabs)]( https://microgridlabs.com/evopt/ )  - Plan and design of future electric fleet through modeling, analysis, and optimization.
 
 ### Data <a name="data"></a>
  
