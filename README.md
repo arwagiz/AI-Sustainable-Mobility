@@ -29,17 +29,17 @@ You might find these links useful:
 
 ## Data Collection and Analytics <a name="data-collection-and-analytics"></a>
 
-- [DataFromSky]( https://datafromsky.com/ )  - Video analytics tools for adaptive traffic monitoring and control, smart parking, surveying and more
-- [Telraam]( https://telraam.net   )  - Collection of multi-modal traffic data with a purpose-built device.
-- [Sensata]( https://www.sensata.io/ )  - UX research and data collection  
-- [Citibeats]( https://www.citibeats.com/ )  - Gathers actionable insights into the population's concerns related to key impact areas
-- [A.I. Tech]( https://www.aitech.vision/ )  - Solutions for characterisation and monitoring of vehicle and pedestrian traffic; video analysis solutions
-- [Fluctuo]( https://fluctuo.com/ )  - Analysis of mobility data from (shared-mobility) services across the world  -
-- [Videonetics]( https://www.videonetics.com/ )  - AI & DL-powered video management solutions
 - [AIMSUN]( https://www.aimsun.com/ )  - Simulation and predictive data analytics to understand transportation network performance, to predict its future evolution, and to support decision making.
-- [Urban Radar]( https://urbanradar.io/ )  - Spatial analytics for smart cities
+- [A.I. Tech]( https://www.aitech.vision/ )  - Solutions for characterisation and monitoring of vehicle and pedestrian traffic; video analysis solutions
 - [AIWAYSION](https://www.aiwaysion.com/) - Analsysis of vehicle, ped/cyclists volume and speed data, road surface condition information, etc
+- [Citibeats]( https://www.citibeats.com/ )  - Gathers actionable insights into the population's concerns related to key impact areas
+- [DataFromSky]( https://datafromsky.com/ )  - Video analytics tools for adaptive traffic monitoring and control, smart parking, surveying and more
+- [Fluctuo]( https://fluctuo.com/ )  - Analysis of mobility data from (shared-mobility) services across the world  
+- [Sensata]( https://www.sensata.io/ )  - UX research and data collection
 - [Swisstraffic.AI](https://www.swisstraffic.ch/en/ai) - Video analytics for traffic counts, near misses, and more
+- [Telraam]( https://telraam.net   )  - Collection of multi-modal traffic data with a purpose-built device.
+- [Urban Radar]( https://urbanradar.io/ )  - Spatial analytics for smart cities
+- [Videonetics]( https://www.videonetics.com/ )  - AI & DL-powered video management solutions
 - [VivaCity](https://vivacitylabs.com/) - Traffic monitoring, near miss data and signal control
   
 ### Safety and Security <a name="safety-and-security"></a>
