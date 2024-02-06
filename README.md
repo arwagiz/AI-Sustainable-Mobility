@@ -138,5 +138,5 @@ Contributors:
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of January 2024)
+- (as of February 2024)
 
