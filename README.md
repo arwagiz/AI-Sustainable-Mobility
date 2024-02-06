@@ -16,7 +16,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Data collection and analytics](#data-collection-and-analytics)
 - [Safety and Security](#safety-and-security)
 - [Public Transport](#public-transport)
-- [Data](#data)
+- [Data and Maps](#data)
 - [Visualisations & Design](#visualisations-&-design)
 - [Parking Management](#parking-management)
 - [MRV](#mrv)
@@ -62,7 +62,7 @@ You might find these links useful:
 - [Swiftly]( https://www.goswift.ly/  )  - Transit data platform for agencies to share real-time passenger information,- manage day-to-day operations, and improve service performance.
 - [Trufi]( https://www.trufi-association.org/ )  - Open data, data collection, GTFS etc
 
-### Data <a name="data"></a>
+### Data and Maps <a name="data"></a>
  
 - [AI Atlas NZ]( https://www.aiatlas.nz/ )  - Experiment in training and applying deep learning models to open aerial imagery
 - [AINO]( https://aino.world/ )  - AI-powered tool to create, design and publish maps for spatial data projects
@@ -72,7 +72,8 @@ You might find these links useful:
 - [Layer]( https://beta.getlayer.xyz/ )  - Spatial orchestration platform with global data coverage
 - [OpenstreetMap]( https://www.openstreetmap.org/ )  - Free editable map of the whole world.
 - [Ride Report]( https://public.ridereport.com/  )  - Data repository on  bikes and scooters
-- [TomTom]( https://www.tomtom.com/ )  - Mapping and location technology
+- [SLOCAT Transport, Climate and Sustainability Global Status Report](https://tcc-gsr.com/) - Data, trends, targets and developments on transport demand, emissions and policies, with Transport Knowledge Base (TraKB): https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
+-  [TomTom]( https://www.tomtom.com/ )  - Mapping and location technology
 - [Transport Data Commons Initiative](https://transportdatacommons.unece.org/) - Transport Data Commons aims to improve access, sharing and analysis of transportation data for a more sustainable future
 - [TUMI Data]( https://hub.tumidata.org/ )  - Mobility data hub for cities
 
@@ -90,7 +91,7 @@ You might find these links useful:
 - [Parknav]( https://parknav.com/ )  - Real-time on-street parking information
 - [Vortex]( https://vortexiot.com/products/vtx-air )  - Air quality monitoring
 - [Wisesight]( https://www.wisesight.ai/  ) - AI automated parking enforcement
-- 
+  
 ### MRV  <a name="mrv"></a>
 
 - [Everimpact]( https://www.everimpact.com/ )  - Measuring area-based GHG emissions to finance climate actions
@@ -118,7 +119,7 @@ You might find these links useful:
 
 ### Infrastructure Management  <a name="infra-management"></a>
 
-- [Niricson](https://niricson.com/) -- Infrastructure condition assessment and risk management
+- [Niricson](https://niricson.com/) - Infrastructure condition assessment and risk management
 
 Disclaimer: Findings, interpretations and conclusions expressed in this chart and in this Github-repository are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart and repository doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
