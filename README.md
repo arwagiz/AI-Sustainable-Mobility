@@ -60,7 +60,6 @@ You might find these links useful:
 - [Mosaiq](https://www.mosaiq.co/) - Public transport analytics and planning
 - [Optibus]( https://www.optibus.com/ )  - Software plattform for public transport operations
 - [Swiftly]( https://www.goswift.ly/  )  - Transit data platform for agencies to share real-time passenger information,- manage day-to-day operations, and improve service performance.
-- [RouteQ]( https://routeq.com/ )  - Routing, dispatching and fleet-tracking
 - [Trufi]( https://www.trufi-association.org/ )  - Open data, data collection, GTFS etc
 
 ### Data <a name="data"></a>
@@ -104,6 +103,7 @@ You might find these links useful:
 - [BinPACKER]( https://www.supplychainbrain.com/articles/32772-db-schenker-releases-binpacker-algorithm-for-load-planning  )  - Load optimization
 - [HAST]( https://hast-hagel.de/ )  - Hail damage assessments
 - [Mansio]( https://mansio-logistics.com/en-us/ )  - Software-based transport system for road haulage. It is based on the principle of relay traffic: in the course of a transport, one truck hands over its semi-trailer to another truck
+- [RouteQ]( https://routeq.com/ )  - Routing, dispatching and fleet-tracking
 - [Smartlane]( https://smartlane.ai/en/ )  - Automated and optimized planning of daily regional multidrop distribution and collection trips.
 - [Swoove]( https://www.swoove360.com/ )  - Manages orders and fleets to help automate the delivery process and track vehicle costs, emissions, certificates, licenses
 - [Veroo]( https://www.veroo.io/  )  - Automating transport and logistics processes and deliver information to manage shipments
