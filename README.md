@@ -25,7 +25,7 @@ Have something to add or change? Contact: Armin.Wagner@giz.de
 - [Transport Planning](#transport-planning)
 - [Infrastructure Management](#infra-management)
 
-Check also this awesome list for open-source software for (mainly public) transport: https://github.com/pomodoren/awesome-open-transport?tab=readme-ov-file
+Also check out this great list of open source software for (mainly public) transport: https://github.com/pomodoren/awesome-open-transport?tab=readme-ov-file
 
 You might find these links useful:
 
