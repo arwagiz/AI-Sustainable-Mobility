@@ -57,6 +57,7 @@ You might find these links useful:
 - [Cermoni]( https://www.cermoni.app/ )  - Public transport route optimization and passenger demand forecasting, vehicle and driver assignment in the public transportation operation planning process.  
 - [DigitalTransport4Africa]( https://digitaltransport4africa.org/ )  - Open resource center for mapping public transport accross Africa
 - [EVOpt (Microlabs)]( https://microgridlabs.com/evopt/ )  - Plan and design of future electric fleet through modeling, analysis, and optimization.
+- [Mosaiq](https://www.mosaiq.co/) - Public transport analytics and planning
 - [Optibus]( https://www.optibus.com/ )  - Software plattform for public transport operations
 - [Swiftly]( https://www.goswift.ly/  )  - Transit data platform for agencies to share real-time passenger information,- manage day-to-day operations, and improve service performance.
 - [RouteQ]( https://routeq.com/ )  - Routing, dispatching and fleet-tracking
