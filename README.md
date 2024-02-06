@@ -103,7 +103,6 @@ You might find these links useful:
 - [Arinto]( https://www.arinto.io/  )  - Arrival optimization system
 - [BinPACKER]( https://www.supplychainbrain.com/articles/32772-db-schenker-releases-binpacker-algorithm-for-load-planning  )  - Load optimization
 - [HAST]( https://hast-hagel.de/ )  - Hail damage assessments
-- [Konsent]( https://konsent-logistik.de/ )  - Automated tracking of production goods through IoT cameras
 - [Mansio]( https://mansio-logistics.com/en-us/ )  - Software-based transport system for road haulage. It is based on the principle of relay traffic: in the course of a transport, one truck hands over its semi-trailer to another truck
 - [Smartlane]( https://smartlane.ai/en/ )  - Automated and optimized planning of daily regional multidrop distribution and collection trips.
 - [Swoove]( https://www.swoove360.com/ )  - Manages orders and fleets to help automate the delivery process and track vehicle costs, emissions, certificates, licenses
@@ -113,7 +112,7 @@ You might find these links useful:
 
 - [App reporte]( https://github.com/trufi-association/chat-bot-report )  - A whatsapp-able platform to report and systematize mobility problems  (311- type) - in Spanish
 - [EMME]( https://www.inrosoftware.com/en/ ) - Transportation forecasting system for planning the urban, regional and national movement of people
-- [REMIX])(https://www.remix.com/) - Transport analytics, planning, visualisation
+- [REMIX](https://www.remix.com/) - Transport analytics, planning, visualisation
 - [PTV Model2Go]( https://www.ptvgroup.com/en/products/ptv-model2go )  - Automates parts of the model-building process and delivers a basic transport model
 - [Podaris](https://www.podaris.com/) - Collaborative transport planning and stakeholder engagement
 
