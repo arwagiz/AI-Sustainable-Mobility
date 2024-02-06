@@ -5,6 +5,7 @@ Community list of: AI, ML, IoT, big&open data & co. <br>
 The evolving eco-system of machine-assisted transport planning, management and operations :bike::bus::train:🌳🚊
 </b><br><br>
 <img width="719" alt="image" src="https://github.com/arwagiz/AI-Sustainable-Mobility/assets/150907039/096d8f9c-9352-4093-a69e-7013e5437a7a">
+![Eco system machine assisted transport planning](https://github.com/arwagiz/AI-Sustainable-Mobility/assets/150907039/00a1d37b-9f39-4ea2-8060-46909cf42a8c)
 
 
 Have something to add or change? Contact: Armin.Wagner@giz.de
