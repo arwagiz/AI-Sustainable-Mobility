@@ -129,9 +129,8 @@ Disclaimer: Findings, interpretations and conclusions expressed in this chart an
 
 
 Contributors:
-- Dr. Sebastian Ebert: sebastian.ebert@giz.de
+
 - Sebastian Ibold: sebastian.ibold@giz.de
-- Tuan Do: tuan.do@giz.de
 - Dr. Christian Mettke christian.mettke@giz.de
 - Eric Stemmler eric.stemmler@cimonline.de
 - Doren Calliku doren.calliku@giz.de
@@ -140,5 +139,5 @@ Contributors:
 
 Compiled by / Contact:
 - Armin Wagner: armin.wagner@giz.de
-- (as of February 2024)
+- (as of September 2024)
 
