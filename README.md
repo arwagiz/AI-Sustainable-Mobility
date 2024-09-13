@@ -125,6 +125,13 @@ You might find these links useful:
 
 - [Niricson](https://niricson.com/) - Infrastructure condition assessment and risk management
 
+### Datasets and re-trained computer vision models ### <a name="datasets"></a>
+
+- Robowflow: https://universe.roboflow.com/browse/transportation - Open-source transportation datasets and pre-trained computer vision models. The category includes images of trains, cars, ships, trucks, planes, motorcycles, bridges, emergency vehicles, road signs, bicycles, scooters, and license plates.
+- Ultralytics: https://docs.ultralytics.com/datasets/#object-detection
+
+### Use cases ### <a name="usecases"></a>
+
 Disclaimer: Findings, interpretations and conclusions expressed in this chart and in this Github-repository are based on information gathered by GIZ and its consultants, partners and contributors. GIZ does not, however, guarantee the accuracy of completeness of information in this document, and cannot be held responsible for any errors, omissions or losses which emerge from its use. The placement and listing of companies, academia or other stakeholders (or their logos, contact details or other information) in this chart and repository doesn’t mean any endorsement by GIZ or other partners. Users are encouraged to exercise due-diligence in respect to information, offers and proposals.
 
 
