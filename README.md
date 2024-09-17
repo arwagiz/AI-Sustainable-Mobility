@@ -4,7 +4,9 @@
 Community list of: AI, ML, IoT, big&open data & co. <br>
 The evolving eco-system of machine-assisted transport planning, management and operations :bike::bus::train:🌳🚊
 </b><br><br>
-![AI Ecosystem September 2024](https://github.com/user-attachments/assets/fc6bbc37-fdf5-4e40-beeb-b6bb120085eb)
+
+![AI Ecosystem September 2024](https://github.com/user-attachments/assets/77857455-5aa1-4a0d-bad8-3828ae58ddae)
+
 
 
 
