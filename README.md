@@ -36,7 +36,7 @@ You might find these links useful:
 - [AIWAYSION](https://www.aiwaysion.com/) - Analsysis of vehicle, ped/cyclists volume and speed data, road surface condition information, etc
 - [DataFromSky]( https://datafromsky.com/ )  - Video analytics tools for adaptive traffic monitoring and control, smart parking, surveying and more
 - [Fluctuo]( https://fluctuo.com/ )  - Analysis of mobility data from (shared-mobility) services across the world
-- [ISARSFOFT](https://www.isarsoft.com/) - Video analysis adds for planning, operation and security
+- [ISARSOFT](https://www.isarsoft.com/) - Video analysis adds for planning, operation and security
 - [Sensata]( https://www.sensata.io/ )  - UX research and data collection
 - [Swisstraffic.AI](https://www.swisstraffic.ch/en/ai) - Video analytics for traffic counts, near misses, and more
 - [Telraam]( https://telraam.net   )  - Collection of multi-modal traffic data with a purpose-built device.
