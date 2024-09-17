@@ -122,8 +122,9 @@ You might find these links useful:
 
 ### Datasets and re-trained computer vision models ### <a name="datasets"></a>
 
-- Robowflow: https://universe.roboflow.com/browse/transportation - Open-source transportation datasets and pre-trained computer vision models. The category includes images of trains, cars, ships, trucks, planes, motorcycles, bridges, emergency vehicles, road signs, bicycles, scooters, and license plates.
-- Ultralytics: https://docs.ultralytics.com/datasets/#object-detection
+- [Roboflow](https://universe.roboflow.com/browse/transportation) - Open-source transportation datasets and pre-trained computer vision models. The category includes images of trains, cars, ships, trucks, planes, motorcycles, bridges, emergency vehicles, road signs, bicycles, scooters, and license plates.
+- [Ultralytics](https://docs.ultralytics.com/datasets/#object-detection) - Datasets for computer vision tasks such as detection, instance segmentation, pose estimation, classification, and multi-object tracking
+
 
 ### Use cases ### <a name="usecases"></a>
 
