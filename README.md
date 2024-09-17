@@ -72,7 +72,6 @@ You might find these links useful:
 - [Latitudo40]( https://www.latitudo40.com/ )  -  AI, machine learning, and Big Data analysis applied to Earth Observation Images
 - [Layer]( https://beta.getlayer.xyz/ )  - Spatial orchestration platform with global data coverage
 - [OpenstreetMap]( https://www.openstreetmap.org/ )  - Free editable map of the whole world.
-- [Ride Report]( https://public.ridereport.com/  )  - Data repository on  bikes and scooters
 - [SLOCAT Transport, Climate and Sustainability Global Status Report](https://tcc-gsr.com/) - Data, trends, targets and developments on transport demand, emissions and policies, with Transport Knowledge Base (TraKB): https://tcc-gsr.com/3rd-edition-transport-knowledge-base-trakb/ 
 -  [TomTom]( https://www.tomtom.com/ )  - Mapping and location technology
 - [Transport Data Commons Initiative](https://transportdatacommons.unece.org/) - Transport Data Commons aims to improve access, sharing and analysis of transportation data for a more sustainable future
