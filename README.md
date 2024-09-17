@@ -35,7 +35,8 @@ You might find these links useful:
 - [A.I. Tech]( https://www.aitech.vision/ )  - Solutions for characterisation and monitoring of vehicle and pedestrian traffic; video analysis solutions
 - [AIWAYSION](https://www.aiwaysion.com/) - Analsysis of vehicle, ped/cyclists volume and speed data, road surface condition information, etc
 - [DataFromSky]( https://datafromsky.com/ )  - Video analytics tools for adaptive traffic monitoring and control, smart parking, surveying and more
-- [Fluctuo]( https://fluctuo.com/ )  - Analysis of mobility data from (shared-mobility) services across the world  
+- [Fluctuo]( https://fluctuo.com/ )  - Analysis of mobility data from (shared-mobility) services across the world
+- [ISARSFOFT](https://www.isarsoft.com/) - Video analysis adds for planning, operation and security
 - [Sensata]( https://www.sensata.io/ )  - UX research and data collection
 - [Swisstraffic.AI](https://www.swisstraffic.ch/en/ai) - Video analytics for traffic counts, near misses, and more
 - [Telraam]( https://telraam.net   )  - Collection of multi-modal traffic data with a purpose-built device.
@@ -45,11 +46,10 @@ You might find these links useful:
   
 ### Safety and Security <a name="safety-and-security"></a>
   
-- [Be My Eyes]( https://www.bemyeyes.com/ )  - Be My Eyes connects people needing sighted support with volunteers and companies through live video around the world
+- [Be My Eyes]( https://www.bemyeyes.com/ )  - Be My Eyes connects people needing sighted support with volunteers and companies through live video around the world, including AI supported image descriptions
 - [CycleAI]( https://cycleai.net/ )  - This application allows the users to plan and navigate in real time between 2 points and considers our previously created Hotspot Maps, avoiding recognized hotspots and calculating the safest route for the user
 - [Nauto]( https://www.nauto.com/ )  - AI-powered fleet management software that anticipates driver behavior, reduces collisions
 - [Safetipin]( https://www.safetipin.com )  - Safetipin Nite and My Safetipin apps collect data across the city through images and through user generated safety audits to assess physical infrastructure as well as the social usage of streets and public spaces.
-- [Walk Together]( https://www.walktogetherai.com/ )  - WalkTogether.ai is a social platform which allows women to find other "verified" women in their vicinity to walk with in order to feel safer.
 - [Walk21 Walkability App]( https://walk21.com/resources/walkability-app/ )  - The Walkability app is a mobile phone application participatory mapping tool
 
 ### Public Transport <a name="public-transport"></a>
