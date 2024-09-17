@@ -34,7 +34,6 @@ You might find these links useful:
 - [AIMSUN]( https://www.aimsun.com/ )  - Simulation and predictive data analytics to understand transportation network performance, to predict its future evolution, and to support decision making.
 - [A.I. Tech]( https://www.aitech.vision/ )  - Solutions for characterisation and monitoring of vehicle and pedestrian traffic; video analysis solutions
 - [AIWAYSION](https://www.aiwaysion.com/) - Analsysis of vehicle, ped/cyclists volume and speed data, road surface condition information, etc
-- [Citibeats]( https://www.citibeats.com/ )  - Gathers actionable insights into the population's concerns related to key impact areas
 - [DataFromSky]( https://datafromsky.com/ )  - Video analytics tools for adaptive traffic monitoring and control, smart parking, surveying and more
 - [Fluctuo]( https://fluctuo.com/ )  - Analysis of mobility data from (shared-mobility) services across the world  
 - [Sensata]( https://www.sensata.io/ )  - UX research and data collection
