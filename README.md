@@ -46,6 +46,11 @@ You might find these links useful:
 - [Urban Radar]( https://urbanradar.io/ )  - Spatial analytics for smart cities
 - [Videonetics]( https://www.videonetics.com/ )  - AI & DL-powered video management solutions
 - [VivaCity](https://vivacitylabs.com/) - Traffic monitoring, near miss data and signal control
+
+### Datasets and re-trained computer vision models ### <a name="datasets"></a>
+
+- [Roboflow](https://universe.roboflow.com/browse/transportation) - Open-source transportation datasets and pre-trained computer vision models. The category includes images of trains, cars, ships, trucks, planes, motorcycles, bridges, emergency vehicles, road signs, bicycles, scooters, and license plates.
+- [Ultralytics](https://docs.ultralytics.com/datasets/#object-detection) - Datasets for computer vision tasks such as detection, instance segmentation, pose estimation, classification, and multi-object tracking
   
 ### Safety and Security <a name="safety-and-security"></a>
   
@@ -122,11 +127,6 @@ You might find these links useful:
 ### Infrastructure Management  <a name="infra-management"></a>
 
 - [Niricson](https://niricson.com/) - Infrastructure condition assessment and risk management
-
-### Datasets and re-trained computer vision models ### <a name="datasets"></a>
-
-- [Roboflow](https://universe.roboflow.com/browse/transportation) - Open-source transportation datasets and pre-trained computer vision models. The category includes images of trains, cars, ships, trucks, planes, motorcycles, bridges, emergency vehicles, road signs, bicycles, scooters, and license plates.
-- [Ultralytics](https://docs.ultralytics.com/datasets/#object-detection) - Datasets for computer vision tasks such as detection, instance segmentation, pose estimation, classification, and multi-object tracking
 
 
 ### Use cases ### <a name="usecases"></a>
