@@ -102,14 +102,11 @@ You might find these links useful:
 
 - [1Lieferschein]( https://1lieferschein.com/ )  - Electronic delivery note
 - [Arinto]( https://www.arinto.io/  )  - Arrival optimization system
-- [BinPACKER]( https://www.supplychainbrain.com/articles/32772-db-schenker-releases-binpacker-algorithm-for-load-planning  )  - Load optimization
 - [Clover Optimization](https://cloveropt.com/) - Solutions for vehicle routing, scheduling and loading optimization
-- [HAST]( https://hast-hagel.de/ )  - Hail damage assessments
 - [Mansio]( https://mansio-logistics.com/en-us/ )  - Software-based transport system for road haulage. It is based on the principle of relay traffic: in the course of a transport, one truck hands over its semi-trailer to another truck
 - [RouteQ]( https://routeq.com/ )  - Routing, dispatching and fleet-tracking
 - [Smartlane]( https://smartlane.ai/en/ )  - Automated and optimized planning of daily regional multidrop distribution and collection trips.
 - [Swoove]( https://www.swoove360.com/ )  - Manages orders and fleets to help automate the delivery process and track vehicle costs, emissions, certificates, licenses
-- [Veroo]( https://www.veroo.io/  )  - Automating transport and logistics processes and deliver information to manage shipments
 
 ### Transport Planning  <a name="transport-planning"></a>
 
