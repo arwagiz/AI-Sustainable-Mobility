@@ -84,6 +84,7 @@ You might find these links useful:
 -  [TomTom]( https://www.tomtom.com/ )  - Mapping and location technology
 - [Transport Data Commons Initiative](https://transportdatacommons.unece.org/) - Transport Data Commons aims to improve access, sharing and analysis of transportation data for a more sustainable future
 - [TUMI Data]( https://hub.tumidata.org/ )  - Mobility data hub for cities
+- [World atlas of GIS data sources](https://felt.com/map/World-atlas-of-GIS-data-sources-R5hQ5GiJRESU9AkJuO11DHD?loc=2.76,-48.02,3.62z&utm) - GIS data sources 
 
 ### Visualisations & Design <a name="visualisations-&-design"></a>
 
